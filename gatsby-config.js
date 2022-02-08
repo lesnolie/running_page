@@ -2,13 +2,13 @@ module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'https://run.ilxyz.cn',
+    logo: 'https://leslieshare.vercel.app/_next/image?url=%2Favatar.svg&w=1080&q=75',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://blog.ilxyz.cn',
       },
       {
         name: 'About',
