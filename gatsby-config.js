@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://run.ilxyz.cn',
-    logo: 'https://leslieshare.vercel.app/_next/image?url=%2Favatar.svg&w=1080&q=75',
+    logo: 'https://i.ibb.co/N7Bqmbs/image.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
