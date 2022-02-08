@@ -24,7 +24,7 @@ env:
   TITLE: leslie Running
   MIN_GRID_DISTANCE: 1 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
-  GITHUB_NAME: leslie
+  GITHUB_NAME: lesnolie
   GITHUB_EMAIL: lesliezhang08@gmail.com
 
 jobs:
